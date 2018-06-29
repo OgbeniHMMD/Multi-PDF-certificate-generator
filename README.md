@@ -1,5 +1,4 @@
-# certGenerator
-## Mass PDF Certificate Generator
+# Multi PDF Certificate Generator
 
 _Rapid creation of printable certificates using Acrobat Javascript_
 
